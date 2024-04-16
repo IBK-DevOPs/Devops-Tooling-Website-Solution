@@ -243,8 +243,6 @@ Execute on NSF
 
 ![alt text](<image/setup permission and ownership.png>)
 
-![alt text](<image/change NFS ownership.png>)
-
 'sudo systemctl restart nfs-server.service'
 
 ![alt text](<image/restart NFS.png>)
